@@ -1,0 +1,22 @@
+{
+  "name": "platin",
+  "version": "0.1.0",
+  "description": "Traductor de idioma platzom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saulflores95/platin.git"
+  },
+  "keywords": [
+    "Traductor"
+  ],
+  "author": "Saul Flores",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saulflores95/platin/issues"
+  },
+  "homepage": "https://github.com/saulflores95/platin#readme"
+}
